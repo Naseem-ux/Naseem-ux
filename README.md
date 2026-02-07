@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Ansari Naseem
 
-<!--
-**Naseem-ux/Naseem-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Undergraduate**  
+💻 **Frontend Developer** passionate about building clean, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- ⚛️ Frontend Developer specializing in **React & JavaScript**
+- 🟢 Backend experience with **Node.js & Express**
+- 🌱 Currently exploring **Next.js** and modern web tools
+- 🛠️ Many more utilities & technologies are **underway**
+- 📈 Always learning, building, and improving
+
+---
+
+## 🧩 Tech Stack
+
+### 💻 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+
+### 🧠 Backend
+- Node.js  
+- Express.js  
+
+### 🗄️ Database
+- MongoDB (Basics)
+
+---
+
+## 🧠 Secondary Skills
+
+### 👨‍💻 Programming Languages
+- Python  
+- C  
+- C++  
+- Java  
+
+### 📊 Core CS Concepts
+- Data Structures & Algorithms (DSA)  
+- Problem Solving  
+- Logical Thinking  
+
+---
+
+## 🔧 Tools & Utilities
+- Git & GitHub  
+- VS Code  
+- REST APIs  
+- npm  
+
+---
+
+## 📌 Projects
+
+> 🚧 Projects are actively being built and improved  
+> Explore my repositories to see hands-on implementations 👇
+
+- 🛒 Web Applications  
+- 📊 Data-driven Dashboards  
+- 🌐 Full-stack Practice Projects  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: [github.com/your-username](https://github.com/your-username)
+- 🔗 LinkedIn: *(add when ready)*
+
+---
+
+⭐ **If you like my work, consider starring the repositories!**  
+🚀 Always building. Always learning.
