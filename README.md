@@ -68,8 +68,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [github.com/your-username](https://github.com/your-username)
-- 🔗 LinkedIn: *(add when ready)*
+- 💼 GitHub: [Ansari Naseem](https://github.com/Naseem-ux/)
+- 🔗 LinkedIn: [Ansari Naseem](https://www.linkedin.com/in/naseem-ansari-524964324/)
+- 🧠 LeetCode: [Ansari Naseem](https://leetcode.com/u/Naseem_123-456/)
 
 ---
 
