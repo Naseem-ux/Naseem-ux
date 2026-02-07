@@ -68,9 +68,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [Ansari Naseem](https://github.com/Naseem-ux/)
-- 🔗 LinkedIn: [Ansari Naseem](https://www.linkedin.com/in/naseem-ansari-524964324/)
-- 🧠 LeetCode: [Ansari Naseem](https://leetcode.com/u/Naseem_123-456/)
+- 💼 GitHub: [Naseem-ux](https://github.com/Naseem-ux/)
+- 🔗 LinkedIn: [naseem-ansari-524964324](https://www.linkedin.com/in/naseem-ansari-524964324/)
+- 🧠 LeetCode: [Naseem_123-456](https://leetcode.com/u/Naseem_123-456/)
 
 ---
 
